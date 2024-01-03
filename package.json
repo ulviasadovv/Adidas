@@ -1,0 +1,14 @@
+{
+  "name": "adidas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass:watch": "sass assets/Scss/main.scss assets/Css/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
+}
